@@ -1,0 +1,93 @@
+
+
+
+
+.row {
+    margin: 0
+}
+
+
+
+form span {
+    color: rgb(179, 179, 179)
+}
+
+
+.CardHName {
+    border: 1px solid rgba(0, 0, 0, 0.137);
+    padding: 1vh;
+    margin-bottom: 4vh;
+    outline: none;
+    width: 100%;
+    background-color: rgb(247, 247, 247)
+}
+.CardNumber  {
+    border: 1px solid rgba(0, 0, 0, 0.137);
+    padding: 1vh;
+    margin-bottom: 4vh;
+    outline: none;
+    width: 100%;
+    background-color: rgb(247, 247, 247)
+}
+
+.CVV {
+    border: 1px solid rgba(0, 0, 0, 0.137);
+    padding: 1vh;
+    margin-bottom: 4vh;
+    outline: none;
+    width: 100%;
+    background-color: rgb(247, 247, 247)
+}
+
+.YYMM {
+    border: 1px solid rgba(0, 0, 0, 0.137);
+    padding: 1vh;
+    margin-bottom: 4vh;
+    outline: none;
+    width: 100%;
+    background-color: rgb(247, 247, 247)
+}
+
+
+.left {
+    background-color: #ffffff;
+    padding: 2vh
+}
+
+
+.left .col-4 {
+    padding-left: 0
+}
+
+
+
+
+.placeOrder {
+    background-color: rgb(37, 37, 37);
+    border-color: rgb(248, 2, 2);
+    color: white;
+    width: 100%;
+    font-size: 0.9rem;
+    margin: 4vh 0 1.5vh 0;
+    padding: 2vh;
+    border-radius: 0
+}
+
+
+.placeOrder:hover {
+    color: white
+}
+
+
+
+input[type=checkbox] {
+    width: unset;
+    margin-bottom: unset
+}
+
+#cvv {
+    background-image: linear-gradient(to left, rgba(255, 255, 255, 0.575), rgba(255, 255, 255, 0.541)), url("https://img.icons8.com/material-outlined/24/000000/help.png");
+    background-repeat: no-repeat;
+    background-position-x: 95%;
+    background-position-y: center
+}

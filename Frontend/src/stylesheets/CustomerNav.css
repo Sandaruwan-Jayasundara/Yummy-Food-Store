@@ -1,0 +1,181 @@
+Button.deliver-button{
+    margin-left: 10px;
+    cursor: pointer;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 1px solid rgba(255, 255, 255, 0);
+    overflow: hidden;
+}
+
+Button.deliver-button:hover{
+    cursor: pointer;
+    border: 1px solid #FFFFFF;
+overflow: hidden;
+}
+.deliver-icon{
+    color: white;
+    scale: 2;
+    padding: 2px;
+}
+.text-deliver{
+    color: #FFFFFF;
+    text-transform: none;
+
+}
+.customer-nav{
+    padding-top: .3rem;
+    padding-bottom: .3rem;
+}
+.customer-bot-nav {
+
+
+    color: #4d4d4d;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.bot-link{
+    font-size: 16px;
+    padding-left: 40px;
+    color: #4d4d4d;
+}
+.bot-link.active{
+    font-size: 16px;
+    padding-left: 40px;
+    color: #c92e31;;
+}
+
+
+.bot-link:hover{
+    color: #c92e31;;
+}
+.bar{
+    width: 600px;
+
+}
+
+.search-button{
+    width: 20px;
+    color: #FFFFFF;
+}
+
+.menu-icons:hover{
+
+    cursor: pointer;
+}
+.main-titles{
+    text-transform:uppercase;
+    font-weight: 400;
+    letter-spacing:1pt;
+    font-size: 25px;
+    padding-top: 10px;
+
+}
+
+.cart-titles{
+    text-transform:uppercase;
+    font-weight: 400;
+    letter-spacing:1pt;
+    font-size: 20px;
+    padding-top: 10px;
+
+}
+
+.category-title{
+    font-weight: 400;
+ padding-left: 10px;
+    line-height: 1em;
+    font-size: 20px;
+
+}
+.main-divide{
+    border-bottom: 3px solid rgba(255, 60, 60, 0.37);
+    width: 100px;
+
+    margin: auto;}
+.category-grp{
+
+  display: block;
+}
+.category-btn{
+    display: block;
+    padding: 5px 5px 5px 20px;
+    border: none;
+    background: none;
+    box-shadow: none;
+    font-weight: 400;
+    color: #0a0a0a;
+    text-align: start;
+}
+.category-btn:hover{
+    background: #c92e31;
+}
+
+.category-btn :checked{
+    background: #c92e31;
+}
+
+.food-titles{
+    text-transform:uppercase;
+    font-weight: 400;
+    font-style: italic;
+    letter-spacing:1pt;
+    font-size: 18px;
+    color: #505050;
+
+}
+
+.food-divide{
+    border-bottom: 1px solid rgba(21, 3, 3, 0.37);
+    margin-top: -3px;
+   }
+
+.tab-content{
+    display: none;
+}
+
+.tab-content.active{
+    display: block;
+
+}
+.bill-fields{
+    font-size: 12px;
+    color: #585757;
+}
+.bill-total-field{
+    font-size: 14px;
+    color: #585757;
+}
+
+Button.sign-button{
+    line-height: 1.4;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.sign-button:hover{
+    line-height: 1.4;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+}
+
+Button.signup-button{
+    line-height: 1.4;
+    border: 1px solid #d9d9d9;
+    text-decoration: none;
+    color: #d9d9d9;
+    padding: 10px;
+}
+
+.signup-button:hover{
+    line-height: 1.4;
+    border: 1px solid #d9d9d9;
+    color: #d9d9d9;
+}
+
+.button-text{
+    text-decoration: none;
+    color: #FFFFFF;
+}

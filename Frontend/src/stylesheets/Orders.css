@@ -1,0 +1,30 @@
+.btn-add-user{
+    width: 200px;
+    border-radius: 10px;
+    height: 40px;
+    background-color: red;
+}
+
+.search {
+    width: 300px;
+    margin-left: 900px;
+   
+}
+
+.drop {
+    width: 200px;
+    margin-left: 100px;
+}
+
+.filter-by {
+    width: 200px;
+    margin-left: 60px;
+    
+}
+
+.btn-report {
+    width: 200px;
+    background-color: #eb2142;
+    border-radius: 5px;
+    align-self: center;
+}
